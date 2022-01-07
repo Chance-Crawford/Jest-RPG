@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Chance-Crawford/Jest-RPG#readme",
   "devDependencies": {
     "jest": "^27.4.6"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
